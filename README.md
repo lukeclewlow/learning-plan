@@ -17,9 +17,8 @@ Books I'm planning to read
 Challenges
 ----------
 
-* Build a personal website
+* Work on a project that includes as much of what we've learnt as possible! From concept through to finished product.
 * Finish off/Restart Battleships Web
-* Build a simple web game from scratch (JavaScript and JQuery)
 
 Plan
 -------
